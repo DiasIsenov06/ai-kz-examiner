@@ -1,0 +1,5 @@
+streamlit  
+google-generativeai  
+openai-whisper  
+opencv-python  
+mediapipe 
